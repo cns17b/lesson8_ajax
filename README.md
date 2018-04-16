@@ -13,8 +13,7 @@ Cole Sheridan
 In this assignment, students used Ajax to obtain infromation from an API and display it to their page.  The API used in this project was TheMovieDB (TMDB) and the Seminole Movie Connection page was created to send an API request to this third party database whenever the user searched for a movie title.  The page is set up to display the movie's title, plot, rating, original language, release date, and poster.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cns17b.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Ajax, or Asynchronous Javascript XML allows for developer to connect their page in a way that allows it to request data from an external site or server and display it to the page without having to reload the page in its entirety.  Using AJAX, the client (your page and the person viewing it) sends a request for information to a server, which responds with the information in order to provide the requested informatin (which is dependant on the scope of the website and the input of the user).   An example of this is when Google attempts to autocomplete a search.  An Ajax protocol is used to read the user input for each character entered in the search bar and update the search engine's drop down menu with popular relevant searches based on the current input.
